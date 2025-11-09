@@ -38,3 +38,12 @@ here is very vague representation of the system
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--a76ce736779f7689e9238a6dbad482a26e9fbe5b/image.png)
   
 
+## 11/9/2025 9 PM - Completed the PCB   
+
+Completed routing the PCB. spent the majority of the time finding the right footprint for the parts even had to create some foot prints myself for this. also finding the right 3d model for the parts took some time too. I wont need a cad for this since this will sit one a acrylic for proper ventilation. 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc2MywicHVyIjoiYmxvYl9pZCJ9fQ==--de80f53e354e4cfa8e4f0492de85066ff5cddf70/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--a15b8f5ecdd2a26493b21d69687b2a8cfa89ad4e/image.png)
+
+  
+
