@@ -13,11 +13,11 @@ My plan is to make a PCB where i can charger 4 lithium ion cells at a time and t
 - i will be using TP4056 modules for this since using the ICs will end up costing more.
 - will be first testing with 20 cells(4 cell per pcb and 5pcbs from JLC).
 - 5v 20A supply with a inline fuse 
-- U shape terminal connector with some 14-16 AWG wires.
+- U shape terminal connector with some 10-12 AWG wires.
 - the system will have its own protections like reverse polarity fuse for over current and also a small voltmeter to monitor the supply voltage.
 - resettable poly fuses for each board 
 - acrylic base and mounted using stand offs
-- proper heat dissipation using the copper pour and some thermal paste and small heat sinks for the ICs 
+- proper heat dissipation using the copper pour and some thermal paste and small heat sinks for the ICs and a single 80mm fan to blow air over the row 
 - ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--84808ef02a20e7e89b30d22f4d38ce2687179227/image.png)
 
   
