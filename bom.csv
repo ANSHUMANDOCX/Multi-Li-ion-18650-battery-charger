@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"BT1, BT2, BT3, BT4",BatteryHolder_MPD_BH-18650-PC,4,Battery_Cell,
+C1,CP_Radial_D12.5mm_P7.50mm,1,C_Polarized,
+D1,LED_D5.0mm,1,LED,
+D2,D_DO-201AD_P15.24mm_Horizontal,1,1N5822,
+F1,Fuseholder_Littelfuse_100_series_5x25mm,1,Fuse,
+J1,TerminalBlock_Wuerth_691311400102_P7.62mm,1,IN,
+J2,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,1,FAN,
+J3,TerminalBlock_Wuerth_691311400102_P7.62mm,1,OUT,
+J5,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,1,VOLTMETER,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,R_Small_US,
+"U1, U2, U3, U4",HW-107 ( 1A 1S LI ION CHARGER 18650),4,HW-107 (1A 1S Li ion TP4056 charger),
