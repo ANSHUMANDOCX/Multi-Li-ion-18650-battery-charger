@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 11/9/2025 - Planning  
+## 11/9/2025 12 PM - Planning  
 
 My plan is to make a PCB where i can charger 4 lithium ion cells at a time and the PCB will be such that we can connect the PCBs together to charge as many lithium cells as possible just that we need to keep in mind the main power supply that is being used to charge them.
 
@@ -20,5 +20,21 @@ My plan is to make a PCB where i can charger 4 lithium ion cells at a time and t
 - proper heat dissipation using the copper pour and some thermal paste and small heat sinks for the ICs and a single 80mm fan to blow air over the row 
 - ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--84808ef02a20e7e89b30d22f4d38ce2687179227/image.png)
 
+  
+
+## 11/9/2025 6 PM - Made schematic and completed the parts reserach   
+
+The schematic is pretty simple one didn't take much time tbh it has a 5a fuse on the board and using Terminal block for connecting to the supply and to the other boards. Also has a small reverse polarity protection. 
+
+also for the heat dissipation i am thinking of using a large copper pour above which the Module will sit and some thermal paste b/w them for better heat conduction.
+
+also Fans  will be there 2 8025 5v fan to blow air over the modules to make the system run cooler 
+
+all the PCBs will sit on a Acrylic Base over some 20mm M3 standoffs 
+
+here is very vague representation of the system 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcyMywicHVyIjoiYmxvYl9pZCJ9fQ==--3e22c28d4a99752dd0623b45102420d196175e99/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--a76ce736779f7689e9238a6dbad482a26e9fbe5b/image.png)
   
 
