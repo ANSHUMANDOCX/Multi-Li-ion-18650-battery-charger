@@ -17,7 +17,7 @@ My plan is to make a PCB where i can charger 4 lithium ion cells at a time and t
 - the system will have its own protections like reverse polarity fuse for over current and also a small voltmeter to monitor the supply voltage.
 - resettable poly fuses for each board 
 - acrylic base and mounted using stand offs
-- proper heat dissipation using the copper pour and some thermal paste
+- proper heat dissipation using the copper pour and some thermal paste and small heat sinks for the ICs 
 - ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--84808ef02a20e7e89b30d22f4d38ce2687179227/image.png)
 
   
